@@ -31,7 +31,7 @@ fcc-eos-write-eh
 
 ## Finding Data
 
-Browse the fcc directory on `eos`, the shared filesystem used by CERN.
+The read/write premissions are gained 24h after your subscription is accepted. Then, you can browse the fcc directory on `eos`, the shared filesystem used by CERN.
 
 ```bash
 tree /eos/experiment/fcc/ -L 2
